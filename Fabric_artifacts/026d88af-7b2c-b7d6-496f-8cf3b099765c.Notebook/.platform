@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "my_notebook",
+    "description": "Interactive notebook for data transformation and exploration"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "026d88af-7b2c-b7d6-496f-8cf3b099765c"
+  }
+}
