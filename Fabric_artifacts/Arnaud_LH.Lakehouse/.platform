@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Lakehouse",
+    "displayName": "Arnaud_LH",
+    "description": "Central data store for raw and curated data in open Delta format"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "fe7cf48f-4556-ac1a-4053-8c812e580ede"
+  }
+}
