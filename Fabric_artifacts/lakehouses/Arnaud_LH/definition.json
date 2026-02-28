@@ -1,0 +1,17 @@
+{
+  "apiVersion": "fabric.microsoft.com/v1",
+  "kind": "lakehouse",
+  "metadata": {
+    "name": "Arnaud_LH",
+    "description": "Central data store for raw and curated data in open Delta format",
+    "workspace_id": "80ad5e25-bd77-4347-b64b-30bc5aa6a661",
+    "fabric_id": "",
+    "created_at": "2026-02-28T00:44:30.625444"
+  },
+  "spec": {
+    "type": "lakehouse",
+    "properties": {},
+    "connections": [],
+    "tags": {}
+  }
+}
